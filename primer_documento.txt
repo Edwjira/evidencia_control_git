@@ -1,1 +1,2 @@
 Este es el primer archivo de la rama prueba
+Prueba de conflicto 
